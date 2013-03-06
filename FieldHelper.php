@@ -1,11 +1,5 @@
 <?php
-/**
- * Created by JetBrains PhpStorm.
- * User: jclark
- * Date: 10/23/12
- * Time: 3:09 PM
- * To change this template use File | Settings | File Templates.
- */
+
 class FieldHelper
 {
 
